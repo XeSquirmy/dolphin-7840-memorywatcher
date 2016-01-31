@@ -1,7 +1,7 @@
 # Linux only, no memwatch support on Windows
 ## Netplay works with these additions
 ### Install Directions:
-1. 
+1. Navigate to the directory where you want the dolphin folder to be in
 2. `git clone https://github.com/dolphin-emu/dolphin`
 3. `cd dolphin`
 4. `git checkout ce493b897d6d3735c930a8465cc0c26bbe5feb86`
