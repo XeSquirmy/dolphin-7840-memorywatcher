@@ -6,7 +6,7 @@
 3. `cd dolphin`
 4. `git checkout ce493b897d6d3735c930a8465cc0c26bbe5feb86`
 5. `wget https://raw.githubusercontent.com/XeSquirmy/dolphin-7840-memorywatcher/master/diff.patch`
-6. `patch < diff.patch`
+6. `patch -p1 < diff.patch`
 7. `mkdir Build && cd Build`
 8. `cmake ..`
 9. `make`
